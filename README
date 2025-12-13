@@ -1,0 +1,9 @@
+Plotit
+======
+Plotit is a simple program that lets you plot things, its simple as that.
+
+This program requires GCC
+
+To use it, type in 'plotit x y' with x being the X axis and y being the Y axis.
+
+To uninstall, please run 'sudo rm /usr/local/bin/plotit'
